@@ -84,7 +84,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="team-single.html" class="mil-team-card mil-mb-60">
+                        <a href="#" class="mil-team-card mil-mb-60">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/1.webp"
                                     alt="Poupoin aka , développeur web et fondateur de progrust ">
@@ -97,7 +97,7 @@
                     </div>
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="team-single.html" class="mil-team-card mil-mb-60">
+                        <a href="#" class="mil-team-card mil-mb-60">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/t10.jpg" alt=" Designer et co-fondateur de progrust">
                                 <div class="mil-team-circle"></div>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="team-single.html" class="mil-team-card mil-mb-60 mil-mb-30">
+                        <a href="#" class="mil-team-card mil-mb-60 mil-mb-30">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/t11.png" alt="Poupoin noé ,comptable de progrust">
                                 <div class="mil-team-circle"></div>

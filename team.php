@@ -19,8 +19,10 @@
     <!-- Progrust CSS -->
     <link rel="stylesheet" href="css/style.css" />
 
+
     <!-- Favicon -->
-    <link rel="icon" href="./img/logo/logo-light.png" type="image/x-icon" />
+    <link rel="icon" href="./img/logo/favicon.png" type="image/x-png" />
+
 
     <!-- Open Graph Meta Tags (for social sharing) -->
     <meta property="og:title" content="Notre Équipe - Progrust : Des Experts Passionnés pour Votre Réussite Business" />

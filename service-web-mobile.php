@@ -522,7 +522,7 @@
                     <div class="col-md-6 col-xl-6">
                         <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Technologie, affaires et talents</span>
                         <h2 class="mil-mb-30">
-                            Prochaien <span class="mil-accent">Vsion</span> chez progrust
+                            Prochaine <span class="mil-accent">Vision</span> chez progrust
                         </h2>
                     </div>
 

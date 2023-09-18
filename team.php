@@ -19,10 +19,8 @@
     <!-- Progrust CSS -->
     <link rel="stylesheet" href="css/style.css" />
 
-
     <!-- Favicon -->
-    <link rel="icon" href="./img/logo/favicon.png" type="image/x-png" />
-
+    <link rel="icon" href="./img/logo/logo-light.png" type="image/x-icon" />
 
     <!-- Open Graph Meta Tags (for social sharing) -->
     <meta property="og:title" content="Notre Équipe - Progrust : Des Experts Passionnés pour Votre Réussite Business" />
@@ -86,7 +84,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="#" class="mil-team-card mil-mb-60">
+                        <a href="./team-single1.php" class="mil-team-card mil-mb-60">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/1.webp"
                                     alt="Poupoin aka , développeur web et fondateur de progrust ">
@@ -99,7 +97,7 @@
                     </div>
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="#" class="mil-team-card mil-mb-60">
+                        <a href="./team-single2.php" class="mil-team-card mil-mb-60">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/t10.jpg" alt=" Designer et co-fondateur de progrust">
                                 <div class="mil-team-circle"></div>
@@ -111,13 +109,13 @@
                     </div>
                     <div class="col-sm-6 col-lg-4">
 
-                        <a href="#" class="mil-team-card mil-mb-60 mil-mb-30">
+                        <a href="./team-single3.php" class="mil-team-card mil-mb-60 mil-mb-30">
                             <div class="mil-image-frame mil-mb-30">
                                 <img src="img/faces/t11.png" alt="Poupoin noé ,comptable de progrust">
                                 <div class="mil-team-circle"></div>
                             </div>
                             <h4 class="mil-mb-10">Poupoin Noé</h4>
-                            <p>gestionnaire Comptable</p>
+                            <p>Gestionnaire Comptable</p>
                         </a>
 
                     </div>

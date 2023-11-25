@@ -91,7 +91,7 @@
                                 <div class="mil-team-circle"></div>
                             </div>
                             <h4 class="mil-mb-10">Poupoin Aka </h4>
-                            <p>Founder & Développeur full-stack</p>
+                            <p>CEO & Développeur full-stack</p>
                         </a>
 
                     </div>
@@ -107,18 +107,7 @@
                         </a>
 
                     </div>
-                    <div class="col-sm-6 col-lg-4">
 
-                        <a href="./team-single3.php" class="mil-team-card mil-mb-60 mil-mb-30">
-                            <div class="mil-image-frame mil-mb-30">
-                                <img src="img/faces/t11.png" alt="Poupoin noé ,comptable de progrust">
-                                <div class="mil-team-circle"></div>
-                            </div>
-                            <h4 class="mil-mb-10">Poupoin Noé</h4>
-                            <p>Gestionnaire Comptable</p>
-                        </a>
-
-                    </div>
 
                 </div>
             </div>
